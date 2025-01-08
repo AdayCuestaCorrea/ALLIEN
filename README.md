@@ -6,7 +6,7 @@ Este documento organiza la estructura del proyecto **ALLIEN**, que incluye siste
 
 ---
 
-## Estructura del Proyecto
+## Estructura del proyecto
 
 La organización del proyecto **ALLIEN** está dividida en las siguientes carpetas:
 
@@ -56,7 +56,7 @@ El informe del proyecto **ALLIEN** contiene:
 
 ---
 
-## Descripción de Archivos
+## Descripción de archivos
 
 ### **Entrenamiento**
 
@@ -81,7 +81,7 @@ El informe del proyecto **ALLIEN** contiene:
 
 ---
 
-## Guía de Navegación
+## Guía de navegación
 
 1. **Entrenamiento de IA**:
    - Consulte los archivos en `Documentacion/Entrenamiento` para entender cómo los agentes son entrenados y configurados.
